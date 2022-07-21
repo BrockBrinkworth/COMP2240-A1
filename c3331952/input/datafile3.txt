@@ -1,0 +1,98 @@
+BEGIN
+
+DISP: 3
+END
+
+ID: p1
+Arrive: 0
+ExecSize: 30
+Tickets: 600
+END
+
+ID: p2
+Arrive: 3
+ExecSize: 2
+Tickets: 300
+END
+
+ID: p3
+Arrive: 6
+ExecSize: 40
+Tickets: 350
+END
+
+ID: p4
+Arrive: 10
+ExecSize: 4
+Tickets: 400
+END
+
+ID: p5
+Arrive: 11
+ExecSize: 14
+Tickets: 250
+END
+
+ID: p6
+Arrive: 11
+ExecSize: 11
+Tickets: 20
+END
+
+ID: p7
+Arrive: 15
+ExecSize: 20
+Tickets: 200
+END
+
+ID: p8
+Arrive: 30
+ExecSize: 10
+Tickets: 200
+END
+
+BEGINRANDOM
+134364
+847434
+763775
+255069
+495435
+449491
+651593
+788724
+93859
+28347
+835765
+432767
+762280
+2106
+445387
+721540
+228762
+945271
+901428
+844422
+757955
+420572
+258917
+511275
+404934
+783799
+303313
+476597
+583382
+908113
+504687
+281838
+755804
+618369
+250506
+909747
+982786
+810218
+902166
+310147
+729832
+ENDRANDOM
+
+EOF
